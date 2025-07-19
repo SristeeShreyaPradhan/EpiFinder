@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Episode Finder with Images & Links</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1> Episode Finder</h1>
+
+  <div class="controls">
+    <input type="text" id="showInput" placeholder="Search F.r.i.e.n.d.s" />
+    <button id="fetchShowBtn">Fetch Show</button>
+  </div>
+
+  <div class="controls">
+    <input type="text" id="searchInput" placeholder="Search episodes by title or description..." disabled />
+    <select id="seasonDropdown" disabled>
+      <option value="all">All Seasons</option>
+    </select>
+  </div>
+ <div id="episodeList" class="episode-list"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
