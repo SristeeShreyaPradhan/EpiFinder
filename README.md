@@ -41,7 +41,6 @@
    git clone https://github.com/your-username/epifinder.git
    cd epifinder
 2. **Open the project**
-   ```bash
    Open index.html in your browser
 3. **Search for a show**
 -Enter the name of any TV show (e.g., Friends, Breaking Bad, The Office) and click "Search"
