@@ -40,8 +40,10 @@
    ```bash
    git clone https://github.com/your-username/epifinder.git
    cd epifinder
+   
 2. **Open the project**
    Open index.html in your browser
+   
 3. **Search for a show**
 -Enter the name of any TV show (e.g., Friends, Breaking Bad, The Office) and click "Search"
 -Filter episodes by season or search for specific episodes using keywords
